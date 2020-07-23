@@ -9,4 +9,5 @@ import com.CarWash.CustomerRegister.Model.RegisterModel;
 public interface RegisterRepository extends MongoRepository<RegisterModel, String>
 {
 
+	
 }

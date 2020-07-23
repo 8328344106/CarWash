@@ -13,6 +13,7 @@ import com.CarWash.CustomerRegister.Repository.RegisterRepository;
 public class RegisterService 
 {
 	
+	
 	@Autowired
 	private RegisterRepository Repo;
 	

@@ -16,6 +16,7 @@ import com.CarWash.CustomerRegister.Service.RegisterService;
 @CrossOrigin("*")
 public class RegisterController 
 {
+	
 	@Autowired
 	private RegisterService cuservice;
 	
